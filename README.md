@@ -8,7 +8,7 @@
 
 <blockquote>
 
-注意：如果你打算通过Claude官网订阅Pro会员，或者希望直接购买现成的Claude Pro账号，请参阅我们另一篇文章《<a href="https://github.com/anyofai/claude-pro">Claude国内购买</a>》一文！在该文章中，我们会手把手地教大家如何快速获取一个国外手机号和国外虚拟信用卡，帮助完成Claude账号注册及Claude Pro订阅。
+注意：如果你打算通过Claude官网订阅Pro会员，或者希望直接购买现成的Claude Pro账号，请查看《<a href="https://github.com/anyofai/claude-pro">Claude国内购买</a>》一文！在该文章中，我们会手把手地教大家如何快速获取一个国外手机号和国外虚拟信用卡，帮助完成Claude账号注册及Claude Pro订阅。
 
 </blockquote>
 
