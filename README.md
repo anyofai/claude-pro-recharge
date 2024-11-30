@@ -1,4 +1,4 @@
-# Claude Pro代充值：人工充值，稳定靠谱，独享Claude成品号
+# Claude Pro代充值：纯人工充值，价格非常实惠，提供24小时在线客服，稳定靠谱，独享Claude成品号！
 
 <p align="center">最近更新于：2024年11月30日</p>
 
