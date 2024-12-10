@@ -16,7 +16,7 @@
 
 ## 第一步：打开星际放映厅官网，并使用手机号登录。
 
-* 星际放映厅官网：https://www.naifeistation.com?invite=3235
+* 星际放映厅官网：<a href="https://www.naifeistation.com?invite=3wLPME">https://www.naifeistation.com?invite=3wLPME</a>
 
 ![Claude Pro代充值第一步：打开星际放映厅官网，并使用手机号登录](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/Claude%20Pro%E4%BB%A3%E5%85%85%E5%80%BC-1.jpg)
 
