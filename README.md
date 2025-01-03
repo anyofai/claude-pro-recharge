@@ -1,6 +1,6 @@
 # Claude Pro代充值：纯人工充值，价格非常实惠，提供24小时在线客服，稳定靠谱，独享Claude成品号！
 
-<p align="center">最近更新于：2024年12月10日</p>
+<p align="center">最近更新于：2025年1月3日</p>
 
 ![Claude Pro代充值，Claude Pro代订阅，Claude Pro代付，Claude 3代充值](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/Claude%20Pro%E4%BB%A3%E5%85%85%E5%80%BC.png)
 
