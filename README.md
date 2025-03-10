@@ -1,6 +1,6 @@
 # Claude Pro代充值：纯人工充值，价格非常实惠，提供24小时在线客服，稳定靠谱，独享Claude成品号！
 
-<p align="center">最近更新于：2025年3月1日</p>
+<p align="center">最近更新于：2025年3月10日</p>
 
 ![Claude Pro代充值，Claude Pro代订阅，Claude Pro代付，Claude 3代充值](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/Claude%20Pro%E4%BB%A3%E5%85%85%E5%80%BC.png)
 
@@ -53,6 +53,8 @@ OK，当你完成付款后，直接联系在线客服，并将你的Claude账号
 * <a href="https://github.com/anyofai/poe">Poe订阅</a>：本文将手把手地教大家如何快速获取一张野卡虚拟信用卡，并使用该卡为Poe充值。而且，本Poe订阅教程经过亲测，真实有效且安全可靠，整个Poe购买流程最快仅需十五分钟即可完成。
 
 * <a href="https://github.com/anyofai/onlyfans">OnlyFans订阅</a>：Onlyfans怎样玩？中国人怎么用OnlyFans？Onlyfans官网是哪个？如何注册Onlyfans帐号？国内如何订阅Onlyfans呢？接下来本文将为你详细解答这些问题。
+
+* <a href="https://github.com/anyofai/x-twitter">Twitter X Premium订阅</a>：国内用户如何通过订阅X Premium、Premium+或SuperGrok等方式来使用Grok 3？以及国内如何白嫖Grok API每月150美元的免费额度？
 
 * <a href="https://github.com/anyofai/chatgpt">ChatGPT注册</a>：本文将手把手教你如何在中国大陆完成ChatGPT帐号注册和ChatGPT Plus会员升级。整个过程简单明了，而且无需手机验证，只需五分钟即可完成所有操作。
 
