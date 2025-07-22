@@ -30,13 +30,15 @@ Claude是一款非常强大的AI工具，尤其是在编码能力方面独树一
 
 如果你已经有Claude账号，那么请选择“Claude Pro代充”服务；如果你还没有Claude账号，那么就直接选择“Claude Pro帐号购买”服务。
 
-![星际放映厅代充值Claude Pro会员第二步：点击“AI工具箱”，选择“Claude Pro代充”](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude%20Pro%E4%BB%A3%E5%85%85%E5%80%BC-6.png)
+![星际放映厅代充值Claude Pro会员第二步：点击“AI工具箱”，选择“Claude Pro代充”](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro%E5%85%85%E5%80%BC-6-1.png)
 
 ### 第三步：输入优惠码“ANYOFAI”，并点击“支付订单”。
 
 注意：无论你选择的是“Claude Pro代充”服务，还是“Claude Pro帐号购买”服务，使用优惠码“ANYOFAI”都可以享受九折优惠，折后每月仅需204元。
 
-![星际放映厅代充值Claude Pro会员第三步：输入优惠码“ANYOFAI”，并点击“支付订单”](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude%20Pro%E4%BB%A3%E5%85%85%E5%80%BC-7.png)
+![星际放映厅代充值Claude Pro会员第三步：输入优惠码“ANYOFAI”，并点击“支付订单”](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro%E5%85%85%E5%80%BC-7-1.png)
+
+![星际放映厅代充值Claude Pro会员第三步：输入优惠码“ANYOFAI”，并点击“支付订单”](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro%E5%85%85%E5%80%BC-7-2.png)
 
 如果你选择的是“Claude Pro帐号购买”服务，那么当你完成付款后，星际放映厅会直接为你提供一个已完成订阅充值的Claude Pro原生独立账号，你拿过来就可以直接使用，没有任何的限制。
 
