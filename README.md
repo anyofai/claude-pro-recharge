@@ -54,8 +54,6 @@ Claude是一款非常强大的AI工具，尤其是在编码能力方面独树一
 
 环球巴士不仅涵盖了Netflix、Disney+、Spotify、YouTube、Prime Video、HBO GO、Hulu、Apple TV+、Apple Music、Peacock、Paramount、NBA赛事直播等主流流媒体账号合租服务，还将业务扩展至AI合租和代充值领域，包括ChatGPT Plus、Midjourney、Claude Pro等，能够满足用户在娱乐、学习、创作等多方面的多样化需求。
 
-值得注意的是，环球巴士提供的Claude代充服务不提供售后。也就是说，如果你是资深老用户，不怕Claude封号，可以选择这项服务。
-
 * 环球巴士官网：<a href="https://universalbus.cn/?s=ofZoHZpnhr">https://universalbus.cn/?s=ofZoHZpnhr</a>
 
 ![环球巴士代充值Claude Pro会员](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-Claude%20Pro%E4%BB%A3%E5%85%85%E5%80%BC-8.png)
