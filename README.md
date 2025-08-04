@@ -10,9 +10,9 @@ Claude是一款非常强大的AI工具，尤其是在编码能力方面独树一
 
 🚨**注意**：由于Claude一直以来封号都非常严重，这就导致市面上提供Claude Pro代充值或者提供Claude Pro原生独立账号的平台非常少，大家且用且珍惜吧。此外，如果你觉得Claude Pro代充值和Claude Pro原生独立账号太贵了，你也可以选择使用ChatGPT Plus会员，每月仅需152元。更多详情请查看：<a href="https://github.com/anyofai/chatgpt-plus-hezu">ChatGPT Plus账号购买</a>！
 
-接下来，我们将为大家推荐两个安全可靠的Claude Pro充值平台。其中，我们更推荐"星际放映厅"这个平台，因为它不仅支持为现有的Claude账号代充值，还可以直接提供已经完成订阅充值的Claude Pro原生独立账号，而且对这两种服务都提供完整的售后保障（即包售后）。
-
 </blockquote>
+
+接下来，我们将为大家推荐两个安全可靠的Claude Pro充值平台。其中，我们更推荐"星际放映厅"这个平台，因为它不仅支持为现有的Claude账号代充值，还可以直接提供已经完成订阅充值的Claude Pro原生独立账号，而且对这两种服务都提供完整的售后保障（即包售后）。
 
 ## 2025年最靠谱的Claude Pro充值平台：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>
 
