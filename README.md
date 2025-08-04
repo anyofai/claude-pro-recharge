@@ -52,11 +52,9 @@ Claude是一款非常强大的AI工具，尤其是在编码能力方面独树一
 
 ## 2025年Claude Pro充值备选平台：<a href="https://universalbus.cn/?s=ofZoHZpnhr">环球巴士</a>
 
-环球巴士是一家专注于流媒体与AI工具账号合租的平台，于2023年2月由“奈飞站”（Netflixstation）全新改版升级而来。环球巴士隶属于杭州十全信息科技有限公司，自2019年创立以来，凭借深厚的技术实力和丰富的服务品类，迅速成为流媒体与AI账号合租领域性价比极高的选择。
+环球巴士也是一家专注于流媒体与AI工具账号合租的平台，于2023年2月由"奈飞站"（Netflixstation）全新改版升级而来。环球巴士隶属于杭州十全信息科技有限公司，自2019年创立以来，凭借丰富的服务经验和完善的技术支持，在流媒体与AI账号合租领域建立了良好的口碑。
 
-环球巴士不仅涵盖了Netflix、Disney+、Spotify、YouTube、Prime Video、HBO GO、Hulu、Apple TV+、Apple Music、Peacock、Paramount、NBA赛事直播等主流流媒体账号合租服务，还将业务扩展至AI合租和代充值领域，包括ChatGPT Plus、Midjourney、Claude Pro等，能够满足用户在娱乐、学习、创作等多方面的多样化需求。
-
-* 环球巴士官网：<a href="https://universalbus.cn/?s=ofZoHZpnhr">https://universalbus.cn/?s=ofZoHZpnhr</a>
+环球巴士不仅涵盖了Netflix、Disney+、Spotify、YouTube、Prime Video、HBO GO、Hulu、Apple TV+、Apple Music、Peacock、Paramount、NBA赛事直播等主流流媒体账号合租服务，还将业务扩展至AI合租和代充值领域，包括ChatGPT Plus、Midjourney、Claude Pro等，能够满足用户在娱乐、学习、创作等多方面的需求。
 
 ![环球巴士代充值Claude Pro会员](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-Claude%20Pro%E4%BB%A3%E5%85%85%E5%80%BC-8.png)
 
