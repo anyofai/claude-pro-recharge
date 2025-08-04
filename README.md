@@ -36,15 +36,15 @@ Claude是一款非常强大的AI工具，尤其是在编码能力方面独树一
 
 ### 第三步：输入优惠码“ANYOFAI”，并点击“支付订单”。
 
-注意：无论你选择的是“Claude Pro代充”服务，还是“Claude Pro帐号购买”服务，使用优惠码“ANYOFAI”都可以享受九折优惠，折后每月仅需204元。
+如果你想给自己的Claude账号代充值，那么在选择了"Claude Pro代充"服务之后，记得使用优惠码"ANYOFAI"（可以享九折优惠），然后点击"支付订单"按钮，并按照系统提示完成支付。当你完成付款后，需要主动联系星际放映厅的在线客服，由客服为你完成Claude Pro的充值。
 
 ![星际放映厅代充值Claude Pro会员第三步：输入优惠码“ANYOFAI”，并点击“支付订单”](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro%E5%85%85%E5%80%BC-7-1.png)
 
+如果你还没有注册Claude账号，并且想使用Claude Pro会员，那么在选择了"Claude Pro账号购买"服务之后，也记得使用优惠码"ANYOFAI"（可享九折优惠），然后点击"支付订单"按钮，并按照系统提示完成支付。当你完成付款后，星际放映厅就会直接为你提供一个已完成订阅充值的Claude Pro原生独立账号，你拿过来就可以直接使用，没有任何限制。
+
 ![星际放映厅代充值Claude Pro会员第三步：输入优惠码“ANYOFAI”，并点击“支付订单”](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro%E5%85%85%E5%80%BC-7-2.png)
 
-如果你选择的是“Claude Pro帐号购买”服务，那么当你完成付款后，星际放映厅会直接为你提供一个已完成订阅充值的Claude Pro原生独立账号，你拿过来就可以直接使用，没有任何的限制。
-
-如果你选择的是“Claude Pro代充”服务，那么当你完成付款后，需要主动联系星际放映厅的在线客服，然后由客服为你完成Claude Pro的充值。
+最后我们想提醒大家的是，星际放映厅提供24小时在线客服，如果你在购买Claude Pro充值服务前后有任何疑问或问题，都可以直接联系星际放映厅的在线客服解决。
 
 <p align="center"><a href="https://www.naifeistation.com/i/3wLPME">立即访问星际放映厅官网</a></p>
 
