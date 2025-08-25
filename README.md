@@ -77,7 +77,7 @@ Claude是一款非常强大的AI工具，尤其是在编码能力方面独树一
 
 注意：银河录像局提供的“Claude Pro镜像试用天卡”和“Claude Pro镜像月卡”，无需科学上网、无需注册Claude账号，也没有封号的风险，但有使用次数的限制，比较适合Claude的轻度用户。无论你购买的是哪个套餐，银河录像局都提供完善的售后支持。
 
-![银河录像局代充值Claude Pro会员第三步：选择Claude Pro镜像服务套餐](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude%20Pro%E4%BB%A3%E5%85%85%E5%80%BC-3.png)
+![银河录像局代充值Claude Pro会员第三步：选择Claude Pro镜像服务套餐](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude%20Pro%E5%85%85%E5%80%BC-6.png)
 
 * Claude Code体验天卡，价格低至9.9元，提供1000积分，可使用约100次。
 * Claude Code标准版，价格为399元/月，提供5500积分，可使用约600次。
@@ -85,7 +85,7 @@ Claude是一款非常强大的AI工具，尤其是在编码能力方面独树一
 
 注意：Claude Code镜像服务支持Claude 4 Sonnet、Claude 4.1 Opus等模型。此外，Claude Code镜像服务无需翻墙，也没有封号风险，价格比原版更便宜。用户购买Claude Code镜像服务后，只需按照银河录像局提供的教程操作，即可快速开始使用Claude Code，非常适合经常写代码的程序员，可以有效节省时间和精力，大幅提升编程效率。现在进入银河录像局官网购买Claude Code镜像服务的话，还可以直接领取一张“Claude Code体验天卡”，免费试用一天！
 
-![银河录像局代充值Claude Pro会员第三步：选择Claude Code镜像服务套餐]()
+![银河录像局代充值Claude Pro会员第三步：选择Claude Code镜像服务套餐](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude%20Pro%E5%85%85%E5%80%BC-7.png)
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
 
