@@ -50,7 +50,48 @@ Claude是一款非常强大的AI工具，尤其是在编码能力方面独树一
 
 ****
 
-## 2025年Claude Pro充值备选平台：<a href="https://universalbus.cn/?s=ofZoHZpnhr">环球巴士</a>
+## 2025年Claude Pro充值备选平台：<a href="https://nf.video/BTgSc">银河录像局(含Claude Code镜像)</a>
+
+银河录像局成立于2019年，依托杭州崇宇信息科技有限公司的强大背景，始终专注于为用户提供流媒体和AI工具的合租服务。自平台上线以来，银河录像局坚持合法合规运营，已获得工信部备案（浙ICP备2022036459号）及ICP经营许可证（浙B2-20230847），所有资质均可公开查询，切实保障用户权益和数据安全。
+
+截至目前，银河录像局已累计完成超1000万笔交易，服务过的用户数量已突破100万，足迹遍布全球百余个国家和地区。在流媒体和AI工具合租领域，无论是业务规模还是服务标准，银河录像局都处于行业前列。
+
+银河录像局提供的服务几乎涵盖市面上主流的流媒体与AI工具，包括Netflix、Disney+、Spotify、YouTube、HBO、Apple TV+、ChatGPT Plus、Claude Pro、Midjourney、Grok等，无论是娱乐消遣、学习办公还是AI创作，这里都能一站式满足。
+
+银河录像局还提供“**Claude Pro合租**”和“**Claude Code镜像**”等服务，该服务**无需翻墙，也无需注册账号，更不用担心封号的问题**，大大降低了国内用户的使用门槛。而且，银河录像局全年无休，配备24小时专业在线客服，无论遇到任何问题，都能快速得到响应和解决。
+
+### 第一步：打开银河录像局官网，并使用手机号或微信完成登录。
+
+* 银河录像局官网：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a>
+
+![银河录像局代充值Claude Pro会员第一步：打开银河录像局官网，并使用手机号或微信完成登录](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude%20Pro%E4%BB%A3%E5%85%85%E5%80%BC-1.png)
+
+### 第二步：先点击“AI服务”，然后选择“Claude Pro”或者“Claude Code”。
+
+![银河录像局代充值Claude Pro会员第二步：先点击“AI服务”，然后选择“Claude Pro”或者“Claude Code”](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude%20Pro%E5%85%85%E5%80%BC-5.png)
+
+### 第三步：根据需要，选择Claude Pro镜像服务套餐或Claude Code镜像服务套餐。
+
+* Claude Pro镜像试用天卡，价格低至8元，每6小时可使用15次。
+* Claude Pro镜像月卡，价格为99元/月，每3小时可使用45次。
+
+注意：银河录像局提供的“Claude Pro镜像试用天卡”和“Claude Pro镜像月卡”，无需科学上网、无需注册Claude账号，也没有封号的风险，但有使用次数的限制，比较适合Claude的轻度用户。无论你购买的是哪个套餐，银河录像局都提供完善的售后支持。
+
+![银河录像局代充值Claude Pro会员第三步：选择Claude Pro镜像服务套餐](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude%20Pro%E4%BB%A3%E5%85%85%E5%80%BC-3.png)
+
+* Claude Code体验天卡，价格低至9.9元，提供1000积分，可使用约100次。
+* Claude Code标准版，价格为399元/月，提供5500积分，可使用约600次。
+* Claude Code专业版，价格为799元/月，提供12000积分，可使用约1500次。
+
+注意：Claude Code镜像服务支持Claude 4 Sonnet、Claude 4.1 Opus等模型。此外，Claude Code镜像服务无需翻墙，也没有封号风险，价格比原版更便宜。用户购买Claude Code镜像服务后，只需按照银河录像局提供的教程操作，即可快速开始使用Claude Code，非常适合经常写代码的程序员，可以有效节省时间和精力，大幅提升编程效率。现在进入银河录像局官网购买Claude Code镜像服务的话，还可以直接领取一张“Claude Code体验天卡”，免费试用一天！
+
+![银河录像局代充值Claude Pro会员第三步：选择Claude Code镜像服务套餐]()
+
+<p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
+
+****
+
+## 2025年Claude Pro充值替补平台：<a href="https://universalbus.cn/?s=ofZoHZpnhr">环球巴士</a>
 
 环球巴士也是一家专注于流媒体与AI工具账号合租的平台，于2023年2月由"奈飞站"（Netflixstation）全新改版升级而来。环球巴士隶属于杭州十全信息科技有限公司，自2019年创立以来，凭借丰富的服务经验和完善的技术支持，在流媒体与AI账号合租领域建立了良好的口碑。
 
@@ -61,38 +102,6 @@ Claude是一款非常强大的AI工具，尤其是在编码能力方面独树一
 注意：环球巴士提供的是Claude Pro代充值服务，在你完成付款后，同样需要将你的Claude账号和密码发送给环球巴士的在线客服，由在线客服为你完成Claude Pro的充值。
 
 <p align="center"><a href="https://universalbus.cn/?s=ofZoHZpnhr">立即访问环球巴士官网</a></p>
-
-****
-
-## 2025年Claude Pro充值替补平台：<a href="https://nf.video/BTgSc">银河录像局</a>
-
-银河录像局成立于2019年，依托杭州崇宇信息科技有限公司的强大背景，始终专注于为用户提供流媒体和AI工具的合租服务。自平台上线以来，银河录像局坚持合法合规运营，已获得工信部备案（浙ICP备2022036459号）及ICP经营许可证（浙B2-20230847），所有资质均可公开查询，切实保障用户权益和数据安全。
-
-截至目前，银河录像局已累计完成超1000万笔交易，服务过的用户数量已突破100万，足迹遍布全球百余个国家和地区。在流媒体和AI工具合租领域，无论是业务规模还是服务标准，银河录像局都处于行业前列。
-
-银河录像局提供的服务几乎涵盖市面上主流的流媒体与AI工具，包括Netflix、Disney+、Spotify、YouTube、HBO、Apple TV+、ChatGPT Plus、Claude Pro、Midjourney、Grok等，无论是娱乐消遣、学习办公还是AI创作，这里都能一站式满足。
-
-银河录像局还提供“Claude Pro合租”服务（即Claude Pro镜像站），该服务无需翻墙，也无需注册繁琐的海外账号，更不用担心支付难题和封号风险，所有服务均可直接使用，极大降低了使用门槛。而且，银河录像局全年无休，配备专业在线客服，无论遇到任何问题，都能快速得到响应和解决。
-
-### 第一步：打开银河录像局官网，并使用手机号或微信完成登录。
-
-* 银河录像局官网：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a>
-
-![银河录像局代充值Claude Pro会员第一步：打开银河录像局官网，并使用手机号或微信完成登录](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude%20Pro%E4%BB%A3%E5%85%85%E5%80%BC-1.png)
-
-### 第二步：在官网首页，依次点击“AI服务”和“Claude Pro”。
-
-![银河录像局代充值Claude Pro会员第二步：在官网首页，依次点击“AI服务”和“Claude Pro”](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude%20Pro%E4%BB%A3%E5%85%85%E5%80%BC-2.png)
-
-### 第三步：选择“独立月付”套餐，并点击“支付宝支付”按钮。
-
-银河录像局会为你提供一个已经完成订阅充值的Claude Pro原生独立账号，可以使用Claude Pro的所有功能和服务，没有任何限制，非常适合Claude的重度用户。此外，银河录像局还提供“镜像试用一天卡”和“镜像月卡”，无需科学上网、无需注册Claude账号，也没有封号的风险，但有使用次数的限制，比较适合Claude的轻度用户。无论你购买的是哪个套餐，银河录像局都提供完善的售后支持。
-
-![银河录像局代充值Claude Pro会员第三步：选择“独立月付”套餐，并点击“支付宝支付”按钮](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude%20Pro%E4%BB%A3%E5%85%85%E5%80%BC-3.png)
-
-OK，当你完成付款后，银河录像局的在线客服会为你提供一个已经完成订阅充值的Claude Pro原生独立账号。然后，你可以自己打开Claude官网，使用银河录像局提供的账号密码登录，接下来即可正常使用Claude Pro的所有功能和服务。
-
-<p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
 
 ## Claude Pro代充值相关的其他文章：
 
