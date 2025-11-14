@@ -66,7 +66,7 @@ Claude是一款非常强大的AI工具，尤其是在编码能力方面独树一
 
 ![银河录像局代充值Claude Pro会员第一步：打开银河录像局官网，并使用手机号或微信完成登录](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/Claude-Pro%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-3.png)
 
-### 第二步：先点击“AI服务”，然后选择“Claude Pro”或者“Claude Code”。
+### 第二步：先点击“AI服务”，然后选择“Claude Pro网页镜像”或者“Claude Code”。
 
 ![银河录像局代充值Claude Pro会员第二步：先点击“AI服务”，然后选择“Claude Pro”或者“Claude Code”](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/Claude-Pro%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-4.png)
 
