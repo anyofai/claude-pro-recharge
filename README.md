@@ -58,7 +58,7 @@ Claude是一款非常强大的AI工具，尤其是在编码能力方面独树一
 
 银河录像局提供的服务几乎涵盖市面上主流的流媒体与AI工具，包括Netflix、Disney+、Spotify、YouTube、HBO、Apple TV+、ChatGPT Plus、Claude Pro、Midjourney、Grok等，无论是娱乐消遣、学习办公还是AI创作，这里都能一站式满足。
 
-银河录像局还提供“**Claude Pro合租**”和“**<a href="<a href="https://github.com/anyofai/claude-pro-hezu">"Claude Code拼车</a>**”等服务，该服务**无需翻墙，也无需注册账号，更不用担心封号的问题**，大大降低了国内用户的使用门槛。而且，银河录像局全年无休，配备24小时专业在线客服，无论遇到任何问题，都能快速得到响应和解决。
+银河录像局还提供“**Claude Pro合租**”和“**<a href="https://github.com/anyofai/claude-pro-hezu">Claude Code拼车</a>**”等服务，该服务**无需翻墙，也无需注册账号，更不用担心封号的问题**，大大降低了国内用户的使用门槛。而且，银河录像局全年无休，配备24小时专业在线客服，无论遇到任何问题，都能快速得到响应和解决。
 
 ### 第一步：打开银河录像局官网，并使用手机号或微信完成登录。
 
