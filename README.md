@@ -64,31 +64,28 @@ Claude是一款非常强大的AI工具，尤其是在编码能力方面独树一
 
 * 银河录像局官网：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a>
 
-![银河录像局代充值Claude Pro会员第一步：打开银河录像局官网，并使用手机号或微信完成登录](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude%20Pro%E4%BB%A3%E5%85%85%E5%80%BC-1.png)
+![银河录像局代充值Claude Pro会员第一步：打开银河录像局官网，并使用手机号或微信完成登录](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/Claude-Pro%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-3.png)
 
 ### 第二步：先点击“AI服务”，然后选择“Claude Pro”或者“Claude Code”。
 
-![银河录像局代充值Claude Pro会员第二步：先点击“AI服务”，然后选择“Claude Pro”或者“Claude Code”](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude%20Pro%E5%85%85%E5%80%BC-5.png)
+![银河录像局代充值Claude Pro会员第二步：先点击“AI服务”，然后选择“Claude Pro”或者“Claude Code”](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/Claude-Pro%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-4.png)
 
-### 第三步：根据需要，选择Claude Pro镜像服务套餐或Claude Code中转服务套餐。
+### 第三步：根据需要，选择Claude Pro镜像服务套餐或Claude Code拼车服务套餐。
 
-* Claude Pro镜像试用天卡，价格低至8元，每6小时可使用15次。
-* Claude Pro镜像月卡，价格为99元/月，每3小时可使用45次。
+![银河录像局代充值Claude Pro会员第三步：根据需要，选择Claude Pro镜像服务套餐](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/Claude-Pro%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-5.png)
+
+* Claude Pro镜像试用天卡，价格低至14元，每6小时可使用15次。
+* Claude Pro镜像月卡，价格为130元/月，每3小时可使用45次。
 
 注意：银河录像局提供的“Claude Pro镜像试用天卡”和“Claude Pro镜像月卡”，无需科学上网、无需注册Claude账号，也没有封号的风险，但有使用次数的限制，比较适合Claude的轻度用户。无论你购买的是哪个套餐，银河录像局都提供完善的售后支持。
 
-![银河录像局代充值Claude Pro会员第三步：选择Claude Pro镜像服务套餐](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude%20Pro%E5%85%85%E5%80%BC-6.png)
+![银河录像局代充值Claude Pro会员第三步：根据需要，选择Claude Code拼车服务套餐](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/Claude-Code%E6%8B%BC%E8%BD%A6-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-6.png)
 
-* Claude Code体验天卡：9.9元
-* Claude Code基础版：159元/月
-* Claude Code标准版：299元/月
-* Claude Code专业版：599元/月
+* Claude Code拼车Pro版：299元/月
+* Claude Code拼车Max版：599元/月
+* Claude Code拼车Ultra版：999元/月
 
-注意：Claude Code中转服务支持Claude 4.5 Sonnet、Claude 4.1 Opus等模型。此外，Claude Code中转服务无需翻墙，也没有封号风险，价格比原版更便宜。用户购买Claude Code中转服务后，只需按照银河录像局提供的教程操作，即可快速开始使用Claude Code，非常适合经常写代码的程序员，可以有效节省时间和精力，大幅提升编程效率。
-
-**现在进入<a href="https://nf.video/BTgSc">银河录像局官网</a>并完成登录后，还可以直接领取一张“Claude Code体验天卡”，免费试用一天！**
-
-![银河录像局代充值Claude Pro会员第三步：选择Claude Code中转服务套餐](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-Claude-Pro%E5%85%85%E5%80%BC-7-1.png)
+注意：Claude Code拼车服务支持Claude 4.5 Sonnet、Claude 4.1 Opus等模型。此外，Claude Code拼车服务无需翻墙，也没有封号风险，价格比原版更便宜。用户购买Claude Code拼车服务后，只需按照银河录像局提供的教程操作，即可快速开始使用Claude Code，非常适合经常写代码的程序员，可以有效节省时间和精力，大幅提升编程效率。
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
 
