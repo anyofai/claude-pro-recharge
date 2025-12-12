@@ -122,6 +122,6 @@ Claude是一款非常强大的AI工具，尤其是在编码能力方面独树一
 * <a href="https://github.com/anyofai/chatgpt">ChatGPT注册</a>：最新的ChatGPT账号注册详细操作步骤，以及ChatGPT账号购买指南！
 * <a href="https://github.com/anyofai/chatgpt-plus-recharge">ChatGPT Plus代充值</a>：推荐最稳定可靠的ChatGPT Plus代充值平台，价格优惠，信誉有保障。
 * <a href="https://github.com/anyofai/nf-video">银河录像局</a>：最靠谱的AI工具和流媒体合租平台！使用优惠码ANYOFAI可享九折优惠！
-* <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会推荐五个国外付费视频网站、五个国外免费视频网站和十个海外免费电影网站！
+* <a href="https://github.com/anyofai/video-site">国外视频网站</a>：本文将会为大家推荐十个2025年国外最受欢迎的视频网站！
 
 免责声明：本项目内容仅供信息参考，请遵守相关法律法规及各平台使用条款，所有操作与后果由用户自行承担。
