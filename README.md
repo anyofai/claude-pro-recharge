@@ -38,11 +38,11 @@ Claude是一款非常强大的AI工具，尤其是在编码能力方面独树一
 
 如果你想给自己的Claude账号代充值，那么在选择了"Claude Pro代充"服务之后，记得使用优惠码"ANYOFAI"（可以享九折优惠），然后点击"支付订单"按钮，并按照系统提示完成支付。当你完成付款后，需要主动联系星际放映厅的在线客服，由客服为你完成Claude Pro的充值。
 
-![星际放映厅代充值Claude Pro会员第三步：输入优惠码“ANYOFAI”，并点击“支付订单”](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/Claude-Pro%E4%BB%A3%E5%85%85%E5%80%BC-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-1.png)
+![星际放映厅代充值Claude Pro会员第三步：输入优惠码“ANYOFAI”，并点击“支付订单”](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/Claude-Pro%E4%BB%A3%E5%85%85%E5%80%BC-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-1-1.png)
 
 如果你还没有注册Claude账号，并且想使用Claude Pro会员，那么在选择了"Claude Pro账号购买"服务之后，也记得使用优惠码"ANYOFAI"（可享九折优惠），然后点击"支付订单"按钮，并按照系统提示完成支付。当你完成付款后，星际放映厅就会直接为你提供一个已完成订阅充值的Claude Pro原生独立账号，你拿过来就可以直接使用，没有任何限制。
 
-![星际放映厅代充值Claude Pro会员第三步：输入优惠码“ANYOFAI”，并点击“支付订单”](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/Claude-Pro%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-2.png)
+![星际放映厅代充值Claude Pro会员第三步：输入优惠码“ANYOFAI”，并点击“支付订单”](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/Claude-Pro%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-2-1.png)
 
 最后我们想提醒大家的是，星际放映厅提供24小时在线客服，如果你在购买Claude Pro充值服务前后有任何疑问或问题，都可以直接联系星际放映厅的在线客服解决。
 
