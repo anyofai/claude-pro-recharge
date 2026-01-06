@@ -93,17 +93,15 @@ Claude是一款非常强大的AI工具，尤其是在编码能力方面独树一
 
 ****
 
-## 2026年Claude Pro充值替补平台：<a href="https://universalbus.cn/?s=ofZoHZpnhr">环球巴士</a>
+## 2026年Claude Pro充值替补平台：<a href="https://accboyytbanyofai.acceboy.com/">账号星球</a>
 
-环球巴士也是一家专注于流媒体与AI工具账号合租的平台，于2023年2月由"奈飞站"（Netflixstation）全新改版升级而来。环球巴士隶属于杭州十全信息科技有限公司，自2019年创立以来，凭借丰富的服务经验和完善的技术支持，在流媒体与AI账号合租领域建立了良好的口碑。
+除了星际放映厅和银河录像局之外，账号星球也是一个相对安全、稳定的Claude Pro充值平台。账号星球成立于2019年，至今已有6年运营时间，是一家专注于虚拟数字产品交易服务的综合型电子商务平台。平台业务覆盖多个国家和地区，与美国、欧洲、亚洲等地的服务商保持合作，整体定位偏向长期运营的账号类电商平台，在同类平台中具备一定的规模和经验积累。
 
-环球巴士不仅涵盖了Netflix、Disney+、Spotify、YouTube、Prime Video、HBO GO、Hulu、Apple TV+、Apple Music、Peacock、Paramount、NBA赛事直播等主流流媒体账号合租服务，还将业务扩展至AI合租和代充值领域，包括ChatGPT Plus、Midjourney、Claude Pro等，能够满足用户在娱乐、学习、创作等多方面的需求。
+在Claude Pro相关服务方面，账号星球目前提供Claude Pro代充值服务，价格为259元/月。需要注意的是，大家在点击“立即购买”按钮之前，需仔细确认你填写的Claude账号和密码等信息是否正确，以避免充值过程中出现错误。在下单完成后，建议尽快添加平台客服微信，以便跟进Claude充值进度。此外，在Claude Pro充值过程中，可能需要你配合提供一次性验证码；如无法提供验证码，则将无法完成充值操作，这一点大家在购买前需要提前了解。
 
-![环球巴士代充值Claude Pro会员](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-Claude%20Pro%E4%BB%A3%E5%85%85%E5%80%BC-8.png)
+除Claude Pro代充值服务外，账号星球还提供多种AI工具与账号类相关服务，包括ChatGPT账号、Gemini账号、Claude Code订阅、Midjourney会员、Sora订阅账号、Grok账号、Perplexity AI、Runway AI、Cursor AI、DeepL翻译会员、ElevenLabs会员等。用户可以根据自身需求，在同一平台内选择合适的服务进行购买和使用。
 
-注意：环球巴士提供的是Claude Pro代充值服务，在你完成付款后，同样需要将你的Claude账号和密码发送给环球巴士的在线客服，由在线客服为你完成Claude Pro的充值。
-
-<p align="center"><a href="https://universalbus.cn/?s=ofZoHZpnhr">立即访问环球巴士官网</a></p>
+<p align="center"><a href="https://accboyytbanyofai.acceboy.com/">立即访问账号星球官网</a></p>
 
 ## Claude Pro代充值相关的其他文章：
 
