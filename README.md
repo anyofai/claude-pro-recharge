@@ -99,6 +99,8 @@ Claude是一款非常强大的AI工具，尤其是在编码能力方面独树一
 
 在Claude Pro相关服务方面，账号星球目前提供Claude Pro代充值服务，价格为259元/月。需要注意的是，大家在点击“立即购买”按钮之前，需仔细确认你填写的Claude账号和密码等信息是否正确，以避免充值过程中出现错误。在下单完成后，建议尽快添加平台客服微信，以便跟进Claude充值进度。此外，在Claude Pro充值过程中，可能需要你配合提供一次性验证码；如无法提供验证码，则将无法完成充值操作，这一点大家在购买前需要提前了解。
 
+![通过账号星球为Claude Pro代充值](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/Claude-Pro%E4%BB%A3%E5%85%85%E5%80%BC-%E8%B4%A6%E5%8F%B7%E6%98%9F%E7%90%83.png)
+
 除Claude Pro代充值服务外，账号星球还提供多种AI工具与账号类相关服务，包括ChatGPT账号、Gemini账号、Claude Code订阅、Midjourney会员、Sora订阅账号、Grok账号、Perplexity AI、Runway AI、Cursor AI、DeepL翻译会员、ElevenLabs会员等。用户可以根据自身需求，在同一平台内选择合适的服务进行购买和使用。
 
 <p align="center"><a href="https://accboyytbanyofai.acceboy.com/">立即访问账号星球官网</a></p>
