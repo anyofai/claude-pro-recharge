@@ -28,25 +28,25 @@ Claude是一款非常强大的AI工具，尤其在编码能力方面表现突出
 
 * 星际放映厅官网：<a href="https://www.naifeistation.com/i/3wLPME">https://www.naifeistation.com/i/3wLPME</a>
 
-![星际放映厅代充值Claude Pro会员第一步：打开星际放映厅官网，并点击右上角的小头像完成账号注册](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude%20Pro%E4%BB%A3%E5%85%85%E5%80%BC-5.png)
+![星际放映厅代充Claude Pro会员第一步：打开星际放映厅官网，并点击右上角的小头像完成账号注册](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude%20Pro%E4%BB%A3%E5%85%85%E5%80%BC-5.png)
 
 ### 第二步：点击“AI工具箱”，选择“Claude Pro代充”或“Claude Pro账号购买”。
 
 如果你已经有Claude账号，那么请选择“Claude Pro代充”服务；如果你还没有Claude账号，那么就直接选择“Claude Pro账号购买”服务。
 
-![星际放映厅代充值Claude Pro会员第二步：点击“AI工具箱”，选择“Claude Pro代充”](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro%E5%85%85%E5%80%BC-6-1.png)
+![星际放映厅代充Claude Pro会员第二步：点击“AI工具箱”，选择“Claude Pro代充”](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro%E5%85%85%E5%80%BC-6-1.png)
 
 ### 第三步：输入优惠码“ANYOFAI”，并点击“支付订单”。
 
 如果你想给自己的Claude账号代充值，那么在选择了"Claude Pro代充"服务之后，记得使用优惠码"ANYOFAI"（可以享九折优惠），然后点击"支付订单"按钮，并按照系统提示完成支付。当你完成付款后，需要主动联系星际放映厅的在线客服，由客服为你完成Claude Pro的充值。
 
-![星际放映厅代充值Claude Pro会员第三步：输入优惠码“ANYOFAI”，并点击“支付订单”](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/Claude-Pro%E4%BB%A3%E5%85%85%E5%80%BC-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-1-1.png)
+![星际放映厅代充Claude Pro会员第三步：输入优惠码“ANYOFAI”，并点击“支付订单”](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/Claude-Pro%E4%BB%A3%E5%85%85%E5%80%BC-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-1-1.png)
 
 如果你还没有注册Claude账号，并且想使用Claude Pro会员，那么在选择了"Claude Pro账号购买"服务之后，也记得使用优惠码"ANYOFAI"（可享九折优惠），然后点击"支付订单"按钮，并按照系统提示完成支付。当你完成付款后，星际放映厅就会直接为你提供一个已完成订阅充值的Claude Pro原生独立账号，你拿过来就可以直接使用，没有任何限制。
 
 注意：星际放映厅的“Claude会员账号购买”服务提供两种价格套餐，分别为1个月套餐和12个月套餐。其中，1个月套餐价格为240元，使用优惠码“ANYOFAI”后可享九折优惠，折后价格为225元/月；12个月套餐价格为208元/月，使用优惠码“ANYOFAI”后同样可享九折优惠，**折后价格为195元/月**。综合来看，**我们更推荐大家直接购买12个月套餐，这样不仅可以省去每月续费的麻烦，而且整体性价比也更高**。
 
-![星际放映厅代充值Claude Pro会员第三步：输入优惠码“ANYOFAI”，并点击“支付订单”](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/Claude-Pro%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-2-1.png)
+![星际放映厅代充Claude Pro会员第三步：输入优惠码“ANYOFAI”，并点击“支付订单”](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/Claude-Pro%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-2-1.png)
 
 最后我们想提醒大家的是，星际放映厅提供24小时在线客服，如果你在购买Claude Pro充值服务前后有任何疑问或问题，都可以直接联系星际放映厅的在线客服解决。
 
@@ -82,22 +82,22 @@ Claude是一款非常强大的AI工具，尤其在编码能力方面表现突出
 
 * 银河录像局官网：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a>
 
-![银河录像局代充值Claude Pro会员第一步：打开银河录像局官网，并使用手机号或微信完成登录](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/Claude-Pro%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-3.png)
+![通过银河录像局为Claude Pro代充值第一步：打开银河录像局官网，并使用手机号或微信完成登录](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/Claude-Pro%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-3.png)
 
 ### 第二步：先点击“AI服务”，然后选择“Claude Pro网页镜像”或者“Claude Code”。
 
-![银河录像局代充值Claude Pro会员第二步：先点击“AI服务”，然后选择“Claude Pro”或者“Claude Code”](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/Claude-Pro%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-4.png)
+![通过银河录像局为Claude Pro代充值第二步：先点击“AI服务”，然后选择“Claude Pro”或者“Claude Code”](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/Claude-Pro%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-4.png)
 
 ### 第三步：根据需要，选择Claude Pro镜像服务套餐或Claude Code拼车服务套餐。
 
-![银河录像局代充值Claude Pro会员第三步：根据需要，选择Claude Pro镜像服务套餐](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/Claude-Pro%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-5.png)
+![通过银河录像局为Claude Pro代充值第三步：根据需要，选择Claude Pro镜像服务套餐](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/Claude-Pro%E5%90%88%E7%A7%9F-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-5.png)
 
 * Claude Pro镜像试用天卡，价格低至14元，每6小时可使用15次。
 * Claude Pro镜像月卡，价格为130元/月，每3小时可使用45次。
 
 注意：银河录像局提供的“Claude Pro镜像试用天卡”和“Claude Pro镜像月卡”，无需科学上网、无需注册Claude账号，也没有封号的风险，但有使用次数的限制，比较适合Claude的轻度用户。无论你购买的是哪个套餐，银河录像局都提供完善的售后支持。
 
-![银河录像局代充值Claude Pro会员第三步：根据需要，选择Claude Code拼车服务套餐](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/Claude-Code%E6%8B%BC%E8%BD%A6-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-6.png)
+![通过银河录像局为Claude Pro代充值第三步：根据需要，选择Claude Code拼车服务套餐](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/Claude-Code%E6%8B%BC%E8%BD%A6-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-6.png)
 
 * Claude Code拼车Pro版：299元/月
 * Claude Code拼车Max版：599元/月
