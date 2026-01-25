@@ -1,6 +1,6 @@
 # 2026年最靠谱的Claude Pro代充值平台推荐！提供全程质保，支持开具发票！
 
-<p align="center">最近更新于：2026年1月24日</p>
+<p align="center">最近更新于：2026年1月25日</p>
 
 ![2026年最靠谱的Claude Pro代充值平台推荐！提供全程质保，支持开具发票！](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/Claude%20Pro%E4%BB%A3%E5%85%85%E5%80%BC.png)
 
