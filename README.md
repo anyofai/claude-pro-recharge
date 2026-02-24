@@ -34,7 +34,7 @@ Claude是一款非常强大的AI工具，尤其在编码能力方面表现突出
 
 如果你已经有Claude账号，那么请选择“Claude Pro代充”服务；如果你还没有Claude账号，那么就直接选择“Claude Pro账号购买”服务。
 
-![星际放映厅代充Claude Pro会员第二步：点击“AI工具箱”，选择“Claude Pro代充”](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro%E5%85%85%E5%80%BC-6-1.png)
+![星际放映厅代充Claude Pro会员第二步：点击“AI工具箱”，选择“Claude Pro代充”](https://raw.githubusercontent.com/anyofai/claude-pro-recharge/refs/heads/main/image/%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-Claude-Pro%E5%85%85%E5%80%BC-6-2.png)
 
 ### 第三步：输入优惠码“ANYOFAI”，并点击“支付订单”。
 
