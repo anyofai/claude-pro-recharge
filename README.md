@@ -8,7 +8,7 @@ Claude是一款非常强大的AI工具，尤其在编码能力方面表现突出
 
 <blockquote>
 
-🚨**注意**：由于Claude长期以来封号问题较为严重，能够稳定提供Claude Pro代充值或Claude Pro原生独立账号服务的平台数量非常有限，建议大家理性使用，且用且珍惜。此外，如果你觉得Claude Pro代充值或Claude Pro原生独立账号的成本较高，也可以选择使用ChatGPT Plus会员，**每月仅需147元**。更多详情：<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus购买</a>！
+🚨**注意**：由于Claude长期以来封号问题较为严重，能够稳定提供Claude Pro代充值或Claude Pro原生独立账号服务的平台数量非常有限，建议大家理性使用，且用且珍惜。此外，如果你觉得Claude Pro代充值或Claude Pro原生独立账号的成本较高，也可以选择使用ChatGPT Plus会员，**每月仅需117元**。更多详情：<a href="https://github.com/anyofai/anyofai.github.io">ChatGPT Plus购买</a>！
 
 </blockquote>
 
